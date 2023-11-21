@@ -13,7 +13,7 @@ This document is used to record Chenxi’s coursework, and is also used to archi
   + [3] 03_Assignment_Li_Chenxi.ipynb
   + [4] 04_Assignment_Li_Chenxi.ipynb
 
-## code function index
+## Code Function Index
 
 The files including these section:
 
