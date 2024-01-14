@@ -1,4 +1,4 @@
-# CompProg_Fall2023
+# CPSocialSci_Fall2023
 
 This is Chenxi’s assignment document from Trinity College Dublin’s computer programming course in the fall of 2023.
 
